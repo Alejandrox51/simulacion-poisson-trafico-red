@@ -31,11 +31,11 @@ pip install -r requisitos.txt
 python simulacion.py
 ```
 
-##Resultados esperados
+## Resultados esperados
 
 Al ejecutar el script, se generan gráficos que comparan visualmente la distribución de Poisson teórica con los datos simulados, para cada valor de λ. Esto permite observar cómo se comporta el tráfico de red bajo distintos escenarios.
 
-##Autor
+## Autor
 
 Luis Alejandro Alcaraz Carrillo
 Correo: luisalejandroa2208@gmail.com
